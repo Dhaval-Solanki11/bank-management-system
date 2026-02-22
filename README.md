@@ -19,15 +19,23 @@ A desktop-based Bank Management System built using Python (Tkinter) and MySQL.
 
 ## 📌 How to Run
 
-1. Install requirements:
-   pip install -r requirements.txt
+## 📦 Installation & Setup
 
-2. Setup MySQL database:
-   Create database: bankdb
+Follow these steps to run the project on your system:
 
-3. Run:
-   python bank.py
+### 1️⃣ Download the Project
 
+1.Clone the repository:   git clone https://github.com/Dhaval-Solanki11/bank-management-system.git
+
+2.pip install pymysql
+
+3.CREATE DATABASE bankdb;
+USE bankdb;
+
+4.bankdb.sql
+
+5.run python Bank.py
 ## 👨‍💻 Author
+
 
 Dhaval Solanki
